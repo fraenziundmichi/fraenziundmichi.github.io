@@ -75,7 +75,7 @@ hr {
     background-image: url("../img/hochzig4.png");
     background-position: bottom right;
     background-repeat: no-repeat;
-    background-size: 200% auto;
+    background-size: auto 80%;
     height: 100%;
 }
 
