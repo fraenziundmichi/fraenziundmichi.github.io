@@ -72,10 +72,10 @@ hr {
 
 .header {
     background-color: #FF5252;
-    background-image: url("../img/couple.png");
+    background-image: url("../img/hochzig4.png");
     background-position: bottom right;
     background-repeat: no-repeat;
-    background-size: auto 600px;
+    background-size: 200% auto;
     height: 100%;
 }
 
